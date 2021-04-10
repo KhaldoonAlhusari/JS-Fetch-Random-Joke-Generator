@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    width: 50%;
+    margin-left: 25%;
+}
+
+p {
+    font-size: 20px;
+}
+
+button {
+    margin: 10px;
+    font-size: 16px;
+}
+
+button.email {
+    margin: 0 0 0 10px;
+}
+
+#bottom {
+    margin-top: 40px;
+}
+
+.hide {
+    display: none;
+}
